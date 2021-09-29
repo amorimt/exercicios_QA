@@ -1,2 +1,2 @@
-# exercicios_QA
+# exercicios_ebac
 Exercícios (EBAC) - Qualidade de Software
